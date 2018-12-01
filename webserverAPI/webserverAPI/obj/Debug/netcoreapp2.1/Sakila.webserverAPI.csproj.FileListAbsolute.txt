@@ -1,0 +1,14 @@
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\bin\Debug\netcoreapp2.1\Sakila.webserverAPI.deps.json
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\bin\Debug\netcoreapp2.1\Sakila.webserverAPI.runtimeconfig.json
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\bin\Debug\netcoreapp2.1\Sakila.webserverAPI.runtimeconfig.dev.json
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\bin\Debug\netcoreapp2.1\Sakila.webserverAPI.dll
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\bin\Debug\netcoreapp2.1\Sakila.webserverAPI.pdb
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\obj\Debug\netcoreapp2.1\Sakila.webserverAPI.csproj.CoreCompileInputs.cache
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\obj\Debug\netcoreapp2.1\Sakila.webserverAPI.RazorAssemblyInfo.cache
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\obj\Debug\netcoreapp2.1\Sakila.webserverAPI.RazorAssemblyInfo.cs
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\obj\Debug\netcoreapp2.1\Sakila.webserverAPI.AssemblyInfoInputs.cache
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\obj\Debug\netcoreapp2.1\Sakila.webserverAPI.AssemblyInfo.cs
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\obj\Debug\netcoreapp2.1\Sakila.webserverAPI.RazorTargetAssemblyInfo.cache
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\obj\Debug\netcoreapp2.1\Sakila.webserverAPI.dll
+C:\Users\MNZZ\source\repos\SakilaWebserverAPI\webserverAPI\webserverAPI\obj\Debug\netcoreapp2.1\Sakila.webserverAPI.pdb
